@@ -25,8 +25,9 @@ Stop Sign = press(K) , Zooming In With Two Fingers = press (f) , Zooming Out Wit
 
 Grayscaled images:
 
-image
+![image](https://user-images.githubusercontent.com/71943623/139480994-504bdf7d-e1c4-49e8-aca3-97069eb9951d.png)
 
 Acurray in graph:
 
-image
+![image](https://user-images.githubusercontent.com/71943623/139481020-9b9fd802-0c65-4bd7-ade8-503113d05c78.png)
+
